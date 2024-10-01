@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6987F2-093A-4FB4-B1E1-D97783D5AA45}|..\\Atv-14\\Atv-14\\Atv-14.csproj|c:\\users\\senai2em\\desktop\\exerc\u00EDcios introdut\u00F3rios c# part.2\\atv-14\\atv-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712562BB-AB9C-4B52-B95D-7C5EDEF7484A}|Atv-9\\Atv-9.csproj|c:\\users\\senai2em\\desktop\\exerc\u00EDcios introdut\u00F3rios c# part.2\\atv-9\\atv-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712562BB-AB9C-4B52-B95D-7C5EDEF7484A}|Atv-9\\Atv-9.csproj|solutionrelative:atv-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF6DD27-1813-4169-B5EC-E7EF1DB8B797}|..\\Atv-15\\Atv-15\\Atv-15.csproj|c:\\users\\senai2em\\desktop\\exerc\u00EDcios introdut\u00F3rios c# part.2\\atv-15\\atv-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-15\\Atv-15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atv-15\\Atv-15\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-15\\Atv-15\\Program.cs",
+              "RelativeToolTip": "..\\Atv-15\\Atv-15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:03:48.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-14\\Atv-14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atv-14\\Atv-14\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-14\\Atv-14\\Program.cs",
+              "RelativeToolTip": "..\\Atv-14\\Atv-14\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:03:08.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-9\\Atv-9\\Program.cs",
+              "RelativeDocumentMoniker": "Atv-9\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Introdut\u00F3rios C# part.2\\Atv-9\\Atv-9\\Program.cs",
+              "RelativeToolTip": "Atv-9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:50:19.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
